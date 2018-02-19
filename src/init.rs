@@ -5,7 +5,6 @@ use clap::{Arg, App};
 use git2::Repository;
 
 fn main() {
-  // https://mattgathu.github.io/writing-cli-app-rust/
   let matches = App::new("milk-init")
     .version("0.0.1")
     .author("John Weachock <jweachock@gmail.com>")

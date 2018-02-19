@@ -14,3 +14,7 @@ path = "src/main.rs"
 [[bin]]
 name = "milk-init"
 path = "src/init.rs"
+
+[[bin]]
+name = "milk-clone"
+path = "src/clone.rs"
