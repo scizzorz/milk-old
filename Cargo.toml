@@ -5,6 +5,7 @@ authors = ["John Weachock <jweachock@gmail.com>"]
 
 [dependencies]
 clap = "2.30.0"
+git2 = "0.6.11"
 
 [[bin]]
 name = "milk"
